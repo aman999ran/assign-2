@@ -1,0 +1,11 @@
+.line{
+    text-decoration: line-through;
+    color: violet;
+}
+.flex{
+    display: grid;
+    text-align:  center;
+    justify-content: center;
+    grid-template-columns: 300px 100px  ;
+
+}
